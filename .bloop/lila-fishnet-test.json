@@ -2,22 +2,22 @@
     "version": "1.4.0",
     "project": {
         "name": "lila-fishnet-test",
-        "directory": "/Users/billlasley/lila-fishnet",
-        "workspaceDir": "/Users/billlasley/lila-fishnet",
+        "directory": "/Users/billlasley/Documents/GitHub/lila-fishnet",
+        "workspaceDir": "/Users/billlasley/Documents/GitHub/lila-fishnet",
         "sources": [
-            "/Users/billlasley/lila-fishnet/test",
-            "/Users/billlasley/lila-fishnet/test-2.13",
-            "/Users/billlasley/lila-fishnet/test-2",
-            "/Users/billlasley/lila-fishnet/test",
-            "/Users/billlasley/lila-fishnet/target/scala-2.13/src_managed/test",
-            "/Users/billlasley/lila-fishnet/target/scala-2.13/twirl/test",
-            "/Users/billlasley/lila-fishnet/target/scala-2.13/routes/test"
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/test",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/test-2.13",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/test-2",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/test",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/target/scala-2.13/src_managed/test",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/target/scala-2.13/twirl/test",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/target/scala-2.13/routes/test"
         ],
         "dependencies": [
             "lila-fishnet"
         ],
         "classpath": [
-            "/Users/billlasley/lila-fishnet/.bloop/lila-fishnet/scala-2.13/classes",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/.bloop/lila-fishnet/scala-2.13/classes",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/twirl-api_2.13/1.5.0/twirl-api_2.13-1.5.0.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-server_2.13/2.8.7/play-server_2.13-2.8.7.jar",
@@ -29,9 +29,9 @@
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.59.Final/netty-transport-native-epoll-4.1.59.Final-linux-x86_64.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.10/joda-time-2.10.10.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/raw.githubusercontent.com/ornicar/lila-maven/master/org/lichess/scalachess_2.13/10.1.6/scalachess_2.13-10.1.6.jar",
-            "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-core_2.13/2.1.11/kamon-core_2.13-2.1.11.jar",
-            "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-influxdb_2.13/2.1.11/kamon-influxdb_2.13-2.1.11.jar",
-            "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-system-metrics_2.13/2.1.11/kamon-system-metrics_2.13-2.1.11.jar",
+            "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-core_2.13/2.1.12/kamon-core_2.13-2.1.12.jar",
+            "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-influxdb_2.13/2.1.12/kamon-influxdb_2.13-2.1.12.jar",
+            "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-system-metrics_2.13/2.1.12/kamon-system-metrics_2.13-2.1.12.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.2.0/scala-xml_2.13-1.2.0.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.7/play_2.13-2.8.7.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-guice_2.13/2.8.7/play-guice_2.13-2.8.7.jar",
@@ -142,11 +142,11 @@
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/9.4.20.v20190813/jetty-http-9.4.20.v20190813.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty/websocket/websocket-api/9.4.20.v20190813/websocket-api-9.4.20.v20190813.jar"
         ],
-        "out": "/Users/billlasley/lila-fishnet/.bloop/lila-fishnet",
-        "classesDir": "/Users/billlasley/lila-fishnet/.bloop/lila-fishnet/scala-2.13/test-classes",
+        "out": "/Users/billlasley/Documents/GitHub/lila-fishnet/.bloop/lila-fishnet",
+        "classesDir": "/Users/billlasley/Documents/GitHub/lila-fishnet/.bloop/lila-fishnet/scala-2.13/test-classes",
         "resources": [
-            "/Users/billlasley/lila-fishnet/test/resources",
-            "/Users/billlasley/lila-fishnet/target/scala-2.13/resource_managed/test"
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/test/resources",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/target/scala-2.13/resource_managed/test"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -196,7 +196,7 @@
                 "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.16.0/jline-3.16.0.jar",
                 "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
             ],
-            "analysis": "/Users/billlasley/lila-fishnet/target/streams/test/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip",
+            "analysis": "/Users/billlasley/Documents/GitHub/lila-fishnet/target/streams/test/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -280,7 +280,7 @@
             "config": {
                 "home": "/Users/billlasley/.jabba/jdk/adopt@1.11.0-9/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/billlasley/lila-fishnet",
+                    "-Duser.dir=/Users/billlasley/Documents/GitHub/lila-fishnet",
                     "-Xms64m",
                     "-Xmx128m"
                 ]
@@ -455,51 +455,51 @@
                 {
                     "organization": "io.kamon",
                     "name": "kamon-core_2.13",
-                    "version": "2.1.11",
+                    "version": "2.1.12",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "kamon-core_2.13",
-                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-core_2.13/2.1.11/kamon-core_2.13-2.1.11.jar"
+                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-core_2.13/2.1.12/kamon-core_2.13-2.1.12.jar"
                         },
                         {
                             "name": "kamon-core_2.13",
                             "classifier": "sources",
-                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-core_2.13/2.1.11/kamon-core_2.13-2.1.11-sources.jar"
+                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-core_2.13/2.1.12/kamon-core_2.13-2.1.12-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "io.kamon",
                     "name": "kamon-influxdb_2.13",
-                    "version": "2.1.11",
+                    "version": "2.1.12",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "kamon-influxdb_2.13",
-                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-influxdb_2.13/2.1.11/kamon-influxdb_2.13-2.1.11.jar"
+                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-influxdb_2.13/2.1.12/kamon-influxdb_2.13-2.1.12.jar"
                         },
                         {
                             "name": "kamon-influxdb_2.13",
                             "classifier": "sources",
-                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-influxdb_2.13/2.1.11/kamon-influxdb_2.13-2.1.11-sources.jar"
+                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-influxdb_2.13/2.1.12/kamon-influxdb_2.13-2.1.12-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "io.kamon",
                     "name": "kamon-system-metrics_2.13",
-                    "version": "2.1.11",
+                    "version": "2.1.12",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "kamon-system-metrics_2.13",
-                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-system-metrics_2.13/2.1.11/kamon-system-metrics_2.13-2.1.11.jar"
+                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-system-metrics_2.13/2.1.12/kamon-system-metrics_2.13-2.1.12.jar"
                         },
                         {
                             "name": "kamon-system-metrics_2.13",
                             "classifier": "sources",
-                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-system-metrics_2.13/2.1.11/kamon-system-metrics_2.13-2.1.11-sources.jar"
+                            "path": "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/kamon/kamon-system-metrics_2.13/2.1.12/kamon-system-metrics_2.13-2.1.12-sources.jar"
                         }
                     ]
                 },

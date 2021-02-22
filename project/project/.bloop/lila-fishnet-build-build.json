@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "lila-fishnet-build-build",
-        "directory": "/Users/billlasley/lila-fishnet/project/project",
-        "workspaceDir": "/Users/billlasley/lila-fishnet/project/project",
+        "directory": "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project",
+        "workspaceDir": "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project",
         "sources": [
-            "/Users/billlasley/lila-fishnet/project/project/src/main/scala",
-            "/Users/billlasley/lila-fishnet/project/project/src/main/scala-2.12",
-            "/Users/billlasley/lila-fishnet/project/project/src/main/scala-2",
-            "/Users/billlasley/lila-fishnet/project/project/src/main/java",
-            "/Users/billlasley/lila-fishnet/project/project/src/main/scala-sbt-1.0",
-            "/Users/billlasley/lila-fishnet/project/project/target/scala-2.12/sbt-1.0/src_managed/main"
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/src/main/scala",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/src/main/scala-2.12",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/src/main/scala-2",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/src/main/java",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/src/main/scala-sbt-1.0",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/target/scala-2.12/sbt-1.0/src_managed/main"
         ],
         "dependencies": [
             
@@ -106,11 +106,11 @@
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar",
             "/Users/billlasley/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3.jar"
         ],
-        "out": "/Users/billlasley/lila-fishnet/project/project/.bloop/lila-fishnet-build-build",
-        "classesDir": "/Users/billlasley/lila-fishnet/project/project/.bloop/lila-fishnet-build-build/scala-2.12/sbt-1.0/classes",
+        "out": "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/.bloop/lila-fishnet-build-build",
+        "classesDir": "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/.bloop/lila-fishnet-build-build/scala-2.12/sbt-1.0/classes",
         "resources": [
-            "/Users/billlasley/lila-fishnet/project/project/src/main/resources",
-            "/Users/billlasley/lila-fishnet/project/project/target/scala-2.12/sbt-1.0/resource_managed/main"
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/src/main/resources",
+            "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/target/scala-2.12/sbt-1.0/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -127,7 +127,7 @@
                 "/Users/billlasley/.sbt/boot/scala-2.12.12/lib/jansi.jar",
                 "/Users/billlasley/.sbt/boot/scala-2.12.12/lib/scala-xml_2.12.jar"
             ],
-            "analysis": "/Users/billlasley/lila-fishnet/project/project/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
+            "analysis": "/Users/billlasley/Documents/GitHub/lila-fishnet/project/project/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -197,7 +197,7 @@
             "config": {
                 "home": "/Users/billlasley/.jabba/jdk/adopt@1.11.0-9/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/billlasley/lila-fishnet/project/project"
+                    "-Duser.dir=/Users/billlasley/Documents/GitHub/lila-fishnet/project/project"
                 ]
             },
             "mainClass": [
